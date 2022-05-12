@@ -65,7 +65,6 @@ Extracted information:
 * [SQL using Python](geeksforgeeks.org/sql-using-python/)
 * [Basic Date and Time Types](https://docs.python.org/3/library/datetime.html)
 
-## Markdown Links & Images
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/franklinjtan/
 
