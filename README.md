@@ -30,7 +30,8 @@ Extracted information:
 * [x] Creating an account on AWS, setting up AWS IAM User, and creating a DB with AWS RDS
 * [x] Planning out a potential primary key for the database
 * [x] Establishing database connection and setting up environment variables for DB_PASS
-* [x] Inserting into reformation_db
+* [x] CREATE TABLE reformation_db...
+* [x] Inserting into reformation_db...
 * [x] SELECT * from reformation_db
 
 ## Addressing Strategy to Scrape Entire Website & Automatic Updates
