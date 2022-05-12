@@ -32,6 +32,12 @@ Extracted information:
 * [x] Inserting into reformation_db
 * [x] SELECT * from reformation_db
 
+## Addressing Strategy to Scrape Entire Website & Automatic Updates
+> "By finding the appropriate xpath, '//div[@class="product-tile__quickadd"]/div/a', I was able to grab all the product links which enabled me to go through each product page and extract the necessary information. I think this strategy can be expanded to include all the critical pages of the site using [Beautiful Soup](https://www.geeksforgeeks.org/beautifulsoup-scraping-link-from-html/). 
+
+> "I understand that the site structure can change which can be tricky, so finding a unique ID/primary would be necessary to keep track of new, old, or not available products. This is something I would look into more. I know for Amazon products, there is a unique identifier (ASINS) that can be used to track the stage of the product.
+
+> "Lastly, with all the requests on the site, it is likely that an IP block will occur, so a proxy server would need to be purchased.  
 
 ## Information Extraction Example
 ```python
@@ -40,7 +46,6 @@ Extracted information:
  product_material = " ".join(list(map(lambda z: z.strip(), product_materials_list)))
 ```
 
-## Usage
 
 ## Technologies
 * [Selenium with Python](https://selenium-python.readthedocs.io/ "Selenium with Python Docs")
