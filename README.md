@@ -1,4 +1,5 @@
 # 👘👗Fashion Store Crawler
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/franklinjtan/]
 
 I created an application that crawls the fashion store brand [Reformation](https://reformation.com/) and extracts product information. 
 
@@ -56,6 +57,13 @@ Extracted information:
 ## Screenshots of Process
 ![Inspecting the Reformation Website](https://github.com/fjt7/fashion-store-crawler/blob/main/Reformation%20Website%20Structure.png)
 ![AWS RDS](https://github.com/fjt7/fashion-store-crawler/blob/main/AWS.JPG)
+
+## Other Acknowledgements
+* [Chrome Driver - WebDriver for Chrome](https://sites.google.com/chromium.org/driver/)
+* [Getting Started with AWS RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html)
+* [Psycopg 2.9.3 documentation](https://www.psycopg.org/docs/cursor.html)
+* [SQL using Python](geeksforgeeks.org/sql-using-python/)
+* [Basic Date and Time Types](https://docs.python.org/3/library/datetime.html)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
