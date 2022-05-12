@@ -10,6 +10,7 @@ Extrac
 
 ## Process
 * [x] Research and study the structure of the website: [Reformation](https://reformation.com/)
+![alt text](https://github.com/fjt7/fashion-store-crawler/blob/main/Reformation%20Website%20Structure.png)
 * [x] Brainstorm and gameplan for collecting extracted information
 
 
