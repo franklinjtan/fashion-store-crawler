@@ -10,7 +10,6 @@ Extrac
 
 ## Process
 * [x] Research and study the structure of the website: [Reformation](https://reformation.com/)
-![alt text](https://github.com/fjt7/fashion-store-crawler/blob/main/Reformation%20Website%20Structure.png)
 * [x] Brainstorm and gameplan for collecting extracted information
 
 
@@ -36,7 +35,9 @@ foobar.singularize('phenomena')
 ## Technologies
 * [Selenium with Python](https://selenium-python.readthedocs.io/ "Selenium with Python Docs")
 
-Please make sure to update tests as appropriate.
+## Screenshots
+![alt text](https://github.com/fjt7/fashion-store-crawler/blob/main/Reformation%20Website%20Structure.png)
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
