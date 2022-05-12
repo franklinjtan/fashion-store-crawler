@@ -1,5 +1,5 @@
 # 👘👗Fashion Store Crawler
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/franklinjtan/]
+[![LinkedIn][https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555]][https://www.linkedin.com/in/franklinjtan/]
 
 I created an application that crawls the fashion store brand [Reformation](https://reformation.com/) and extracts product information. 
 
