@@ -37,7 +37,7 @@ Extracted information:
 
 > "I understand that the site structure can change which can be tricky, so finding a unique ID/primary would be necessary to keep track of new, old, or not available products. This is something I would look into more. I know for Amazon products, there is a unique identifier (ASINS) that can be used to track the stage of the product.
 
-> "Lastly, with all the requests on the site, it is likely that an IP block will occur, so a proxy server would need to be purchased.  
+> "Lastly, with all the projected requests on the site, it is likely that an IP block will occur, so a proxy server would need to be purchased. 
 
 ## Information Extraction Example
 ```python
@@ -51,10 +51,11 @@ Extracted information:
 * [Selenium with Python](https://selenium-python.readthedocs.io/ "Selenium with Python Docs")
 * [WebDriver with Selenium](https://www.selenium.dev/documentation/webdriver/)
 * [PostgreSQL on Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_PostgreSQL.html)
-* [Amazon Web Services](https://docs.aws.amazon.com/polly/latest/dg/setting-up.html)
+* [Amazon Web Services](https://docs.aws.amazon.com/polly/latest/dg/setting-up.html)'
 
 ## Screenshots of Process
-![alt text](https://github.com/fjt7/fashion-store-crawler/blob/main/Reformation%20Website%20Structure.png)
+![Inspecting the Reformation Website](https://github.com/fjt7/fashion-store-crawler/blob/main/Reformation%20Website%20Structure.png)
+![AWS RDS](https://github.com/fjt7/fashion-store-crawler/blob/main/AWS.JPG)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
