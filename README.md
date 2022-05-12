@@ -1,5 +1,5 @@
 # 👘👗Fashion Store Crawler
-[![LinkedIn][https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555]][https://www.linkedin.com/in/franklinjtan/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 I created an application that crawls the fashion store brand [Reformation](https://reformation.com/) and extracts product information. 
 
@@ -64,6 +64,10 @@ Extracted information:
 * [Psycopg 2.9.3 documentation](https://www.psycopg.org/docs/cursor.html)
 * [SQL using Python](geeksforgeeks.org/sql-using-python/)
 * [Basic Date and Time Types](https://docs.python.org/3/library/datetime.html)
+
+## Markdown Links & Images
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/franklinjtan/
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
